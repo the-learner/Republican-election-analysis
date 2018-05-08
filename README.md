@@ -1,7 +1,7 @@
 # Republican-election-analysis
 Analyze Trump’s winning over Ben Carson, John Kasich, Marco Rubio and Ted Cruz.
 Used spark to develop a k-means model to do clustering based on many features such as 
-1.fips 
+1.fips\n
 2.area_name 
 3.state_abbreviation 
 4.Population_2014 
